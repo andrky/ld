@@ -1,13 +1,35 @@
-.jumbotron {
-  padding-top: 5rem;
-  background-color: #ffcccc;
-  text-align: center;
-}
-
-#about {
-  background-color: #ffcccc;
+#jumbotron {
+ padding-top: 8rem;
+ background-color: #ffcccc;
+ text-align: center;
 }
 
 section {
-  padding-top: 5rem;
+ padding-top: 6rem;
+}
+
+#peta {
+ padding-top: 6rem;
+ background-color: white;
+ text-align: center;
+}
+
+#about,
+#definisi,
+#rumah,
+#wisata,
+#makanan {
+ background-color: #ffcccc;
+}
+
+.wisgam h6 {
+ padding-top: 10px;
+ text-align: center;
+}
+
+.kotak {
+ width: 25px;
+ height: 25px;
+ background-color: red;
+ border: 1px solid black;
 }
