@@ -347,7 +347,7 @@
         <h2>Wisata</h2>
       </div>
     </div>
-    <div class="row">
+    <div class="row justify-content-evenly">
       <div class="wisgam col-md-2">
         <img src="img/aceh/weh.png" alt="Gambar Pulau Weh" class="img-fluid shadow-lg rounded">
         <h6>Pulau Weh</h6>
@@ -388,9 +388,9 @@
         <h2>Suku</h2>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-6 rounded">
-        <div class="card mb-3 mt-3 shadow">
+    <div class="row justify-content-evenly">
+      <div class="col-md-6 mb-3 rounded">
+        <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="img/aceh/suku_aceh.png" class="img-fluid rounded-end" alt="Gambar Suku Aceh">
@@ -399,18 +399,14 @@
               <div class="card-body">
                 <h5 class="card-title">Suku Aceh</h5>
                 <p class="card-text" style="text-align: justify;">Suku Aceh (Aksara Jawoë : اورڠ اچيه) atau yang dalam Bahasa Aceh yang ditulis dengan huruf latin dibaca "Ureuëng Acèh" adalah nama sebuah suku penduduk asli yang mendiami wilayah pesisir dan sebagian pedalaman Provinsi Aceh, Indonesia. Suku Aceh mayoritas beragama Islam.
-                  <br /><br />
-                  <br />
-                  <br />
-                  <br />
                 </p>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-md-6 rounded">
-        <div class="card mb-3 mt-3 shadow">
+      <div class="col-md-6 mb-3 rounded">
+        <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="img/aceh/tamiang.png" class="img-fluid rounded-end" alt="Gambar Suku Tamiang">
@@ -471,6 +467,7 @@
     <path fill="white" fill-opacity="1" d="M0,64L40,101.3C80,139,160,213,240,208C320,203,400,117,480,101.3C560,85,640,139,720,138.7C800,139,880,85,960,74.7C1040,64,1120,96,1200,106.7C1280,117,1360,107,1400,101.3L1440,96L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
   </svg>
 </section>
+<!-- End Makanan -->
 
 <!-- Wonderful Indonesia -->
 <section id="wi">
@@ -484,7 +481,6 @@
 </section>
 <!-- End Wonderful Indonesia -->
 
-<!-- End Makanan -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
   <path fill="rgb(255,0,0)" fill-opacity="1" d="M0,256L40,250.7C80,245,160,235,240,224C320,213,400,203,480,181.3C560,160,640,128,720,112C800,96,880,96,960,117.3C1040,139,1120,181,1200,213.3C1280,245,1360,267,1400,277.3L1440,288L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
 </svg>

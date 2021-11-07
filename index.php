@@ -59,6 +59,102 @@
         case 'sumbar':
           include "halaman/sumbar.php";
           break;
+        case 'sumut':
+          include "halaman/sumut.php";
+          break;
+        case 'riau':
+          include "halaman/riau.php";
+          break;
+        case 'kepri':
+          include "halaman/kepri.php";
+          break;
+        case 'jambi':
+          include "halaman/jambi.php";
+          break;
+        case 'bengkulu':
+          include "halaman/bengkulu.php";
+          break;
+        case 'sumsel':
+          include "halaman/sumsel.php";
+          break;
+        case 'kbb':
+          include "halaman/kbb.php";
+          break;
+        case 'lampung':
+          include "halaman/lampung.php";
+          break;
+        case 'jakarta':
+          include "halaman/jakarta.php";
+          break;
+        case 'banten':
+          include "halaman/banten.php";
+          break;
+        case 'jabar':
+          include "halaman/jabar.php";
+          break;
+        case 'jateng':
+          include "halaman/jateng.php";
+          break;
+        case 'jogja':
+          include "halaman/jogja.php";
+          break;
+        case 'jatim':
+          include "halaman/jatim.php";
+          break;
+        case 'bali':
+          include "halaman/bali.php";
+          break;
+        case 'ntb':
+          include "halaman/ntb.php";
+          break;
+        case 'ntt':
+          include "halaman/ntt.php";
+          break;
+        case 'kalbar':
+          include "halaman/kalbar.php";
+          break;
+        case 'kalteng':
+          include "halaman/kalteng.php";
+          break;
+        case 'kalsel':
+          include "halaman/kalsel.php";
+          break;
+        case 'kaltim':
+          include "halaman/kaltim.php";
+          break;
+        case 'kalut':
+          include "halaman/kalut.php";
+          break;
+        case 'sulut':
+          include "halaman/sulut.php";
+          break;
+        case 'gorontalo':
+          include "halaman/gorontalo.php";
+          break;
+        case 'sulteng':
+          include "halaman/sulteng.php";
+          break;
+        case 'sulbar':
+          include "halaman/sulbar.php";
+          break;
+        case 'sulsel':
+          include "halaman/sulsel.php";
+          break;
+        case 'sultenggara':
+          include "halaman/sultenggara.php";
+          break;
+        case 'malukut':
+          include "halaman/malukut.php";
+          break;
+        case 'maluku':
+          include "halaman/maluku.php";
+          break;
+        case 'papuabarat':
+          include "halaman/papuabarat.php";
+          break;
+        case 'papua':
+          include "halaman/papua.php";
+          break;
         default:
           echo "<center><h3>Maaf. Halaman tidak di temukan !</h3></center>";
           break;
