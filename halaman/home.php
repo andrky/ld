@@ -173,7 +173,7 @@
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jogja/jogja.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Yogyakarta" />
 						<div class="card-body">
-							<p class="card-text text-center">Yogyakarta</p>
+							<p class="card-text text-center">Daerah Istimewa Yogyakarta</p>
 						</div>
 					</div>
 				</a>
