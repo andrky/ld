@@ -3,12 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<img src="img/indonesia.png" alt="Gambar Peta Indonesia" class="img-fluid" />
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12">
-				<h1 class="display-4">Indonesia</h1>
+				<img src="https://awsimages.detik.net.id/community/media/visual/2019/11/22/b9c29bcd-9d9b-4c1f-a19a-e59b6c93b87e.png?a=1" alt="Gambar Peta Indonesia" class="img-fluid" />
 			</div>
 		</div>
 	</div>
@@ -17,6 +12,13 @@
 	</svg>
 </section>
 <!-- End Jumbotron -->
+
+<!-- Maps Indonesia -->
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/countries/id/id-all.js"></script>
+
+<div id="container"></div>
 
 <!-- Start Infografis -->
 <section id="infografis">
