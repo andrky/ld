@@ -3,18 +3,18 @@
   <div class="container">
     <div class="row">
       <div class="col mb-5">
-        <h2>Peta Provinsi Bengkulu</h2>
+        <h2>Peta Provinsi Jawa Timur</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <img src="img/bengkulu/map_bengkulu.png" alt="Gambar Peta Bengkulu" class="img-thumbnail shadow">
+        <img src="img/jatim/map_jatim.png" alt="Gambar Peta Jawa Timur" class="img-thumbnail shadow">
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-md-2 mt-3 mb-4 ps-3 d-flex justify-content-md-center">
         <div class="kotak"></div>
-        <div class="text ps-3">Bengkulu
+        <div class="text ps-3">Jawa Timur
         </div>
       </div>
       <div class="col-md-2 mt-3 mb-4 ps-3 d-flex justify-content-md-center">
@@ -34,13 +34,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center mb-5">
-        <h2>Bengkulu</h2>
+        <h2>Jawa Timur</h2>
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-md-8 fs-5" style="text-align: justify">
         <span>
-          Bengkulu adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia. Ibu kota provinsi Bengkulu ada di kota Bengkulu. Provinsi ini terletak di bagian Barat Daya Pulau Sumatra, yang berbatasan dengan provinsi Sumatra Barat, Jambi, Sumatra Selatan dan Lampung. Pada tahun 2020, jumlah penduduk provinsi ini sebanyak 2.091.314 jiwa, dengan kepadatan 105 jiwa/km².
+          Jawa Timur adalah sebuah provinsi di bagian timur Pulau Jawa, Indonesia. Ibu kota Jawa Timur ialah kota Surabaya. Luas wilayahnya yakni 47.803,49 km², dengan jumlah penduduk sebanyak 40.665.696 jiwa (2020) dan kepadatan penduduk 851 jiwa/km2.
         </span>
       </div>
     </div>
@@ -59,191 +59,295 @@
         <h2>Kota dan Kabupaten</h2>
       </div>
     </div>
-    <div class="row justify-content-evenly">
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat_daya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat Daya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat Daya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_besar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kabupaten Aceh Besar" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Besar</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_selatan.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Selatan" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Selatan</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_singkil.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Singkil" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Singkil</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tamiang.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tamiang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tamiang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tengah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tengah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tengah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tenggara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tenggara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tenggara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_timur.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Timur" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Timur</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_utara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Utara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Utara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_bener_meriah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bener Meriah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bener Meriah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/bireuen.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bireueun" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bireueun</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/gayo_lues.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Gayo Lues" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Gayo Lues</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_nagan_raya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Nagan Rayaa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Nagan Raya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_simeuleu.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Simeulue" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Simeulue</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_banda_aceh.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Banda Aceh" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Banda Aceh</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/langsa.png" class="card-img-top img-fluid" alt="Gambar Logo Langsa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Langsa</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_lhok.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Lhokseumawe" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Lhokseumawe</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_sabang.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Sabang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Sabang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kot_subulussalam.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Subulussalam" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Subulussalam</h6>
-          </div>
-        </div>
-      </div>
+    <div class="table-responsive">
+      <table id="tabel-data" class="table table-striped table-bordered" cellspacing="0">
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </tfoot>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Kabupaten Bangkalan</td>
+            <td>Bangkalan</td>
+            <td>Abdul Latif Amin Imron</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Kabupaten Banyuwangi</td>
+            <td>Banyuwangi</td>
+            <td>Ipuk Fiestiandani</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Kabupaten Blitar</td>
+            <td>Kanigoro</td>
+            <td>Rini Syarifah</td>
+            <td>22</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Kabupaten Bojonegoro</td>
+            <td>Bojonegoro</td>
+            <td>Anna Mu'awanah</td>
+            <td>28</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Kabupaten Bondowoso</td>
+            <td>Bondowoso</td>
+            <td>Salwa Arifin</td>
+            <td>23</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Kabupaten Gresik</td>
+            <td>Gresik</td>
+            <td>Fandi Akhmad Yani</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Kabupaten Jember</td>
+            <td>Jember</td>
+            <td>Hendy Siswanto</td>
+            <td>31</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Kabupaten Jombang</td>
+            <td>Jombang</td>
+            <td>Mundjidah Wahab</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Kabupaten Kediri</td>
+            <td>Ngasem</td>
+            <td>Hanindhito Himawan Pramana</td>
+            <td>26</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td>Kabupaten Lamongan</td>
+            <td>Lamongan</td>
+            <td>Yuhronur Efendi</td>
+            <td>27</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Kabupaten Lumajang</td>
+            <td>Lumajang</td>
+            <td>Thoriqul Haq</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>Kabupaten Madiun</td>
+            <td>Caruban</td>
+            <td>Ahmad Dawami Ragil Saputro</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>Kabupaten Magetan</td>
+            <td>Magetan</td>
+            <td>Suprawoto</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>Kabupaten Malang</td>
+            <td>Kepanjen</td>
+            <td>Sanusi</td>
+            <td>33</td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>Kabupaten Mojokerto</td>
+            <td>Mojosari</td>
+            <td>Ikfina Fahmawati</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>Kabupaten Nganjuk</td>
+            <td>Nganjuk</td>
+            <td>Marhaen Djumadi (Plt.)</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>Kabupaten Ngawi</td>
+            <td>Ngawi</td>
+            <td>Ony Anwar Harsono</td>
+            <td>19</td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>Kabupaten Pacitan</td>
+            <td>Pacitan</td>
+            <td>Indrata Nur Bayuaji</td>
+            <td>12</td>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td>Kabupaten Pamekasan</td>
+            <td>Pamekasan</td>
+            <td>Baddrut Tamam</td>
+            <td>13</td>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td>Kabupaten Pasuruan</td>
+            <td>Bangil</td>
+            <td>Irsyad Yusuf</td>
+            <td>24</td>
+          </tr>
+          <tr>
+            <td>21</td>
+            <td>Kabupaten Ponorogo</td>
+            <td>Ponorogo</td>
+            <td>Sugiri Sancoko</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>22</td>
+            <td>Kabupaten Probolinggo</td>
+            <td>Kraksaan</td>
+            <td>Timbul Prihanjoko (Plt.)</td>
+            <td>24</td>
+          </tr>
+          <tr>
+            <td>23</td>
+            <td>Kabupaten Sampang</td>
+            <td>Sampang</td>
+            <td>Slamet Junaidi</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <td>24</td>
+            <td>Kabupaten Sidoarjo</td>
+            <td>Sidoarjo</td>
+            <td>Ahmad Muhdlor Ali</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>25</td>
+            <td>Kabupaten Situbondo</td>
+            <td>Situbondo</td>
+            <td>Karna Suswandi</td>
+            <td>17</td>
+          </tr>
+          <tr>
+            <td>26</td>
+            <td>Kabupaten Sumenep</td>
+            <td>Sumenep</td>
+            <td>Achmad Fauzi</td>
+            <td>27</td>
+          </tr>
+          <tr>
+            <td>27</td>
+            <td>Kabupaten Trenggalek</td>
+            <td>Trenggalek</td>
+            <td>Mochamad Nur Arifin</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <td>28</td>
+            <td>Kabupaten Tuban</td>
+            <td>Tuban</td>
+            <td>Aditya Halindra Faridzky</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>29</td>
+            <td>Kabupaten Tulungagung</td>
+            <td>Tulungagung</td>
+            <td>Maryoto Birowo</td>
+            <td>19</td>
+          </tr>
+          <tr>
+            <td>30</td>
+            <td>Kota Batu</td>
+            <td>-</td>
+            <td>Dewanti Rumpoko</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>31</td>
+            <td>Kota Blitar</td>
+            <td>-</td>
+            <td>Santoso</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>32</td>
+            <td>Kota Kediri</td>
+            <td>-</td>
+            <td>Abdullah Abu Bakar</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>33</td>
+            <td>Kota Madiun</td>
+            <td>-</td>
+            <td>Maidi</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>34</td>
+            <td>Kota Malang</td>
+            <td>-</td>
+            <td>Sutiaji</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>35</td>
+            <td>Kota Mojokerto</td>
+            <td>-</td>
+            <td>Ika Puspitasari</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>36</td>
+            <td>Kota Pasuruan</td>
+            <td>-</td>
+            <td>Saifullah Yusuf</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>37</td>
+            <td>Kota Probolinggo</td>
+            <td>-</td>
+            <td>Hadi Zainal Abidin</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>38</td>
+            <td>Kota Surabaya</td>
+            <td>-</td>
+            <td>Eri Cahyadi</td>
+            <td>31</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -263,9 +367,9 @@
     <div class="row justify-content-center">
       <div class="col-md-7 mb-5">
         <div class="card shadow" style="width: auto">
-          <img src="img/bengkulu/rumah_adat.png" class="card-img-top rounded" alt="Gambar Rumah Adat Bengkulu">
+          <img src="img/jatim/rumah_adat.png" class="card-img-top rounded" alt="Gambar Rumah Adat Jawa Timur">
           <div class="card-body">
-            <p class="card-text fs-6" style="text-align: justify;">Rumah Bubungan Lima adalah rumah adat dari provinsi Bengkulu. Rumah ini memiliki model seperti rumah panggung yang ditopang oleh beberapa tiang penopang. Rumah ini bukanlah rumah tinggal seperti pada umumnya. Rumah ini biasanya dipakai untuk acara adat masyarakat Bengkulu. Rumah ini terbagi atas tiga bagian yaitu rumah bagian atas, rumah bagian tengah, dan rumah bagian bawah. Rumah Bubungan Lima memiliki materi dasar yaitu kayu. Kayu yang dipilih pun bukan kayu sembarangan melainkan kayu yang kuat dan tahan lama. Kayu yang biasanya digunakan untuk membangun Rumah Bubungan Lima adalah Kayu Medang Kemuning. Rumah Bubungan Lima dibangun tinggi agar menghindari pemilik rumah beserta keluarga dari serangan binatang liar dan juga dari bencana alam seperti banjir. Karena tinggi Rumah Bubungan Lima ini, maka orang-orang yang hendak masuk ke dalam rumah pun harus menggunakan tangga. Tangga yang digunakan untuk masuk ke dalam rumah umumnya mempunyai jumlah anak tangga yang ganjil sesuai dengan kepercayaan masyarakat Bengkulu. Rumah Bubungan Lima ini merupakan salah satu Budaya Indonesia yang menjadi objek wisata.</p>
+            <p class="card-text fs-6" style="text-align: justify;">Mirip dengan Jawa Tengah, rumah adat Jawa Timur juga dikenal dengan nama joglo. Bedanya dengan Joglo Jawa Tengah, atap Joglo Jawa Timur sedikit lebih sederhana.</p>
           </div>
         </div>
       </div>
@@ -288,37 +392,19 @@
     <div class="row justify-content-evenly">
       <div class="col-md-6 mb-3">
         <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_bidadariteminanganak.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Bidadari Teminang Anak" />
+          <img src="img/jatim/tari_kudalumping.png" class="card-img-top img-fluid rounded" alt="Gambar Logo TaKuda Lumping" />
           <div class="card-body">
-            <h4 class="card-title">Tari Bidadari Teminang Anak</h4>
-            <p class="card-text" style="text-align: justify;">Tari Bidadari Teminang Anak afalah salah satu tari tradisional Indonesia yang berasal dari wilayah Rejang Lebong, Provinsi Bengkulu. Dilansir dari Pemerintah Kabupaten Rejang Lebong, Rejang Lebong berada di atas pegunungan bukit barisan Provinsi Bengkulu yang merupakan produsen utara kopi dan sayuran.</p>
+            <h4 class="card-title">Tari Kuda Lumping</h4>
+            <p class="card-text" style="text-align: justify;">Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda, Tarian ini berasal dari Ponorogo. Tarian ini menggunakan kuda yang terbuat dari bambu atau bahan lainnya yang di anyam dan dipotong menyerupai bentuk kuda, dengan dihiasi rambut tiruan dari tali plastik atau sejenisnya yang di gelung atau di kepang. Anyaman kuda ini dihias dengan cat dan kain beraneka warna. Tarian kuda lumping biasanya hanya menampilkan adegan prajurit berkuda, akan tetapi beberapa penampilan kuda lumping juga menyuguhkan atraksi kesurupan, kekebalan, dan kekuatan magis, seperti atraksi memakan beling dan kekebalan tubuh terhadap deraan pecut. Jaran Kepang merupakan bagian dari pagelaran tari reog.</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_pukek.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Pukek" />
+          <img src="img/jatim/tari_reog.png" class="card-img-top img-fluid rounded" alt="Gambar Logo TReog" />
           <div class="card-body">
-            <h4 class="card-title">Tari Pukek</h4>
-            <p class="card-text" style="text-align: justify;">Tari Pukek adalah salah satu aset budaya yang masih dilestarikan. Indonesia terkenal dengan Negara berjuta kebudayaan, dimana kebudayaan tersebut tersebar di seluruh daerah. Selain lagu daerah, tarian juga mencerminkan identitas bangsa. Agar budaya tidak hilang atau mati, masyarakat wajib melestarikan warisan tersebut.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_putrigadingcempaka.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Putri Gading Cempaka" />
-          <div class="card-body">
-            <h4 class="card-title">Tari Putri Gading Cempaka</h4>
-            <p class="card-text" style="text-align: justify;">arian ini merupakan tarian adat Bengkulu yang terinspirasi dari cerita rakyat yaitu Sendratari Putri Gading Cempaka yang mengisahkan putri tercantik yang berasal dari Bengkulu Utara</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_tombakkerbau.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Tombak Kerbau" />
-          <div class="card-body">
-            <h4 class="card-title">Tari Tombak Kerbau</h4>
-            <p class="card-text" style="text-align: justify;">Tari Tombak Kerbau adalah salah satu aset budaya yang masih dilestarikan. Indonesia terkenal dengan Negara berjuta kebudayaan, dimana kebudayaan tersebut tersebar di seluruh daerah. Selain lagu daerah, tarian juga mencerminkan identitas bangsa. Agar budaya tidak hilang atau mati, masyarakat wajib melestarikan warisan tersebut.</p>
+            <h4 class="card-title">Tari Reog</h4>
+            <p class="card-text" style="text-align: justify;">Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping. Reog merupakan salah satu seni budaya yang berasal dari Jawa Timur bagian barat-laut dan Ponorogo dianggap sebagai kota asal Reog yang sebenarnya. Gerbang kota Ponorogo dihiasi oleh sosok warok dan gemblak, dua sosok yang ikut tampil pada saat Reog dipertunjukkan. Reog adalah salah satu budaya daerah di Indonesia yang masih sangat kental dengan hal-hal yang berbau mistik dan ilmu kebatinan yang kuat.</p>
           </div>
         </div>
       </div>
@@ -340,16 +426,24 @@
     </div>
     <div class="row justify-content-evenly">
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_bentengmarlborough.png" alt="Gambar Benteng Marlborough" class="img-fluid shadow-lg rounded">
-        <h6>Benteng Marlborough</h6>
+        <img src="img/jatim/wst_bromo.png" alt="Gambar Gunung Bromo" class="img-fluid shadow-lg rounded">
+        <h6>Gunung Bromo</h6>
       </div>
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_panjangbeach.png" alt="Gambar Panjang Beach" class="img-fluid shadow-lg rounded">
-        <h6>Panjang Beach</h6>
+        <img src="img/jatim/wst_jatimpark.png" alt="Gambar Jatim Park" class="img-fluid shadow-lg rounded">
+        <h6>Jatim Park</h6>
       </div>
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_rumahpengasinganbungkarno.png" alt="Gambar Rumah Pengasingan Bung Karno" class="img-fluid shadow-lg rounded">
-        <h6>Rumah Pengasingan Bung Karno</h6>
+        <img src="img/jatim/wst_museumangkut.png" alt="Gambar Museum Angkut" class="img-fluid shadow-lg rounded">
+        <h6>Museum Angkut</h6>
+      </div>
+      <div class="wisgam col-md-2">
+        <img src="img/jatim/wst_pantaiklayar.png" alt="Gambar Pantai Klayar" class="img-fluid shadow-lg rounded">
+        <h6>Pantai Klayar</h6>
+      </div>
+      <div class="wisgam col-md-2">
+        <img src="img/jatim/wst_tmnasionalbaluran.png" alt="Gambar Taman Nasional Baluran" class="img-fluid shadow-lg rounded">
+        <h6>Taman Nasional Baluran</h6>
       </div>
     </div>
   </div>
@@ -372,12 +466,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_lembak.png" class="img-fluid rounded-end" alt="Gambar Suku Lembak">
+              <img src="img/jatim/suku_jatim.png" class="img-fluid rounded-end" alt="Gambar Suku Jawa">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Lembak</h5>
-                <p class="card-text" style="text-align: justify;">Suku Lembak adalah suku bangsa atau kelompok etnik yang mendiami daerah-daerah di Provinsi Bengkulu dan sebagian Provinsi Sumatra Selatan yang tersebar di kota Bengkulu, Bengkulu Utara, kabupaten Bengkulu Tengah, kabupaten Rejang Lebong, dan kabupaten Kepahiang. Suku Lembak di kabupaten Rejang Lebong bermukim di kecamatan Padang Ulak Tanding, Sindang Kelingi, dan Kota Padang. Di Kabupaten Kepahiang, suku Lembak mendiami desa Suro Lembak. Suku lembak juga mendiami wilayah daerah Kota Lubuklinggau dan kabupaten Musi Rawas yang berada di wilayah provinsi Sumatra Selatan. Dari beberapa literatur, Suku Lembak berdasarkan jenisnya adalah bagian dari Suku Melayu. Bahasa, adat-istiadat, dan budaya Suku Lembak tidak jauh berbeda dengan masyarakat Melayu pada umumnya.
+                <h5 class="card-title">Suku Jawa</h5>
+                <p class="card-text" style="text-align: justify;">Suku Jawa merupakan suku bangsa terbesar di Indonesia yang berasal dari Jawa Tengah, Jawa Timur, Daerah Istimewa Yogyakarta, Kabupaten Indramayu, Kabupaten/Kota Cirebon (Jawa Barat) dan Kabupaten/Kota Serang–Cilegon (Banten). Pada tahun 2010, setidaknya 40,22% penduduk Indonesia merupakan etnis Jawa. Selain itu, suku Jawa ada pula yang berada di negara Kaledonia Baru, Oseania dan Suriname, Amerika Selatan karena pada masa kolonial Belanda suku ini dibawa ke sana sebagai pekerja. Saat ini suku Jawa di Suriname menjadi salah satu suku terbesar di sana dan dikenal sebagai Jawa Suriname. Ada juga sejumlah besar suku Jawa di sebagian besar provinsi di Indonesia, Malaysia, Singapura, Arab Saudi, dan Belanda.
                 </p>
               </div>
             </div>
@@ -388,44 +482,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_mukomuko.png" class="img-fluid rounded-end" alt="Gambar Suku Mukomuko">
+              <img src="img/jatim/suku_madura.png" class="img-fluid rounded-end" alt="Gambar Suku Madura">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Mukomuko</h5>
-                <p class="card-text" style="text-align: justify;">Suku Mukomuko atau disebut Muke-Muke mendiami wilayah yang sekarang masuk Kabupaten Mukomuko, Bengkulu yang mendekati perbatasan wilayah Sumatra Barat di utara. Orang Minang Mukomuko mempunyai bahasa sendiri yaitu bahasa Mukomuko, yang memiliki persamaan dengan bahasa Minangkabau. Selain bahasa, unsur-unsur kebudayaan Mukomuko banyak memiliki persamaan dengan kebudayaan Minangkabau. Dalam sistem kekerabatan, mereka mengamalkan prinsip penarikan garis keturunan matrilineal, sebagaimana yang berlaku di daerah Minangkabau.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 mb-3 rounded">
-        <div class="card mb-3 mt-3 shadow h-100">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="img/bengkulu/suku_pekal.png" class="img-fluid rounded-end" alt="Gambar Suku Pekal">
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5 class="card-title">Suku Pekal</h5>
-                <p class="card-text" style="text-align: justify;">Suku Pekal[1] atau Pikal adalah suku bangsa atau kelompok etnik yang mendiami daerah Kabupaten Bengkulu Utara di Provinsi Bengkulu, dan juga wilayah sekitar Kabupaten Mukomuko yang berada dekat perbatasan Jambi dan Sumatra Barat. Populasi suku Pekal pada sensus tahun 2000 yakni sebesar 30.000 orang.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 mb-3 rounded">
-        <div class="card mb-3 mt-3 shadow h-100">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="img/bengkulu/suku_rejang.png" class="img-fluid rounded-end" alt="Gambar Suku Rejang">
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5 class="card-title">Suku Rejang</h5>
-                <p class="card-text" style="text-align: justify;">Suku Rejang adalah salah satu suku bangsa yang mendiami Provinsi Bengkulu dan Provinsi Sumatra Selatan.[1] Masyarakat Rejang di Bengkulu mendiami bekas wilayah Onderafdeeling Lais (Rejang Pesisir) serta Lebong, dan Redjang (Rejang Pegunungan). Sementara itu, di Sumatra Selatan masyarakatnya yang masih beridentitas Rejang bermukim di sebagian kecil dari bekas wilayah Onderafdeeling Rawas. Ada pun yang sudah melebur dengan masyarakat Melayik (Lintang dan Lembak) serta tidak lagi berbahasa Rejang mendiami bekas wilayah Onderafdeeling Musi Ulu, Empat Lawang, dan Rawas
+                <h5 class="card-title">Suku Madura</h5>
+                <p class="card-text" style="text-align: justify;">Suku Madura (Bahasa Madura: Orèng Mâdhurâ) merupakan salah satu etnis dengan populasi besar di Indonesia, jumlahnya sekitar 7.179.356 juta jiwa (sensus 2010). Mereka berasal dari Pulau Madura dan pulau-pulau sekitarnya (Pulau Puteran, Pulau Gili Iyang, Pulau Sapudi, Pulau Gili Raja, Pulau Giligenting, Pulau Raas, dan lain-lain). Suku Madura adalah suku perantau yang banyak tersebar di beberapa wilayah-wilayah Indonesia. Selain di Indonesia, beberapa orang Madura perantauan juga dapat ditemui di negara tetangga yaitu Malaysia dan Singapura.
                 </p>
               </div>
             </div>
@@ -451,25 +513,25 @@
     <div class="row justify-content-evenly">
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_bagarhiu.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Bagar Hiu" />
+          <img src="img/jatim/mkn_nasikrawu.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Nasi Krawu" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Bagar Hiu</h5>
+            <h5 class="card-text text-center pt-3">Nasi Krawu</h5>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_lemangtapai.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Lemang Tapai" />
+          <img src="img/jatim/mkn_rawon.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Rawon" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Lemang Tapai</h5>
+            <h5 class="card-text text-center pt-3">Rawon</h5>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_lontongtunjang.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Lontong Tunjang" />
+          <img src="img/jatim/mkn_rujakcingur.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Rujak Cingur" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Lontong Tunjang</h5>
+            <h5 class="card-text text-center pt-3">Rujak Cingur</h5>
           </div>
         </div>
       </div>

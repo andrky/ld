@@ -3,18 +3,18 @@
   <div class="container">
     <div class="row">
       <div class="col mb-5">
-        <h2>Peta Provinsi Bengkulu</h2>
+        <h2>Peta Provinsi Maluku</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <img src="img/bengkulu/map_bengkulu.png" alt="Gambar Peta Bengkulu" class="img-thumbnail shadow">
+        <img src="img/maluku/map_maluku.png" alt="Gambar Peta Maluku" class="img-thumbnail shadow">
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-md-2 mt-3 mb-4 ps-3 d-flex justify-content-md-center">
         <div class="kotak"></div>
-        <div class="text ps-3">Bengkulu
+        <div class="text ps-3">Maluku
         </div>
       </div>
       <div class="col-md-2 mt-3 mb-4 ps-3 d-flex justify-content-md-center">
@@ -34,13 +34,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center mb-5">
-        <h2>Bengkulu</h2>
+        <h2>Maluku</h2>
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-md-8 fs-5" style="text-align: justify">
         <span>
-          Bengkulu adalah sebuah provinsi yang berada di pulau Sumatra, Indonesia. Ibu kota provinsi Bengkulu ada di kota Bengkulu. Provinsi ini terletak di bagian Barat Daya Pulau Sumatra, yang berbatasan dengan provinsi Sumatra Barat, Jambi, Sumatra Selatan dan Lampung. Pada tahun 2020, jumlah penduduk provinsi ini sebanyak 2.091.314 jiwa, dengan kepadatan 105 jiwa/km².
+          Maluku adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia. Provinsi ini berbatasan dengan Laut Seram di utara, Samudra Hindia dan Laut Arafura di selatan, Papua di timur, dan Sulawesi di barat. Ibu kota dan kota terbesarnya ialah kota Ambon. Provinsi Maluku berada di urutan ke-28 provinsi menurut jumlah penduduk di Indonesia, di mana pada tahun 2020, populasi provinsi Maluku berjumlah 1.848.923 jiwa.
         </span>
       </div>
     </div>
@@ -59,191 +59,106 @@
         <h2>Kota dan Kabupaten</h2>
       </div>
     </div>
-    <div class="row justify-content-evenly">
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat_daya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat Daya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat Daya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_besar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kabupaten Aceh Besar" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Besar</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_selatan.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Selatan" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Selatan</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_singkil.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Singkil" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Singkil</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tamiang.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tamiang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tamiang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tengah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tengah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tengah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tenggara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tenggara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tenggara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_timur.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Timur" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Timur</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_utara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Utara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Utara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_bener_meriah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bener Meriah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bener Meriah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/bireuen.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bireueun" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bireueun</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/gayo_lues.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Gayo Lues" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Gayo Lues</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_nagan_raya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Nagan Rayaa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Nagan Raya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_simeuleu.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Simeulue" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Simeulue</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_banda_aceh.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Banda Aceh" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Banda Aceh</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/langsa.png" class="card-img-top img-fluid" alt="Gambar Logo Langsa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Langsa</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_lhok.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Lhokseumawe" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Lhokseumawe</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_sabang.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Sabang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Sabang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kot_subulussalam.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Subulussalam" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Subulussalam</h6>
-          </div>
-        </div>
-      </div>
+    <div class="table-responsive">
+      <table id="tabel-data" class="table table-striped table-bordered" cellspacing="0">
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </tfoot>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Kabupaten Buru</td>
+            <td>Namlea</td>
+            <td>Ramly Umasugi</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Kabupaten Buru Selatan</td>
+            <td> Namrole</td>
+            <td>Tagop Sudarsono Soulisa</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Kabupaten Kepulauan Aru</td>
+            <td>Dobo</td>
+            <td>Johan Gonga</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Kabupaten Kepulauan Tanimbar</td>
+            <td>Saumlaki</td>
+            <td>Petrus Fatlolon</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Kabupaten Maluku Barat Daya</td>
+            <td> Tiakur</td>
+            <td> Benyamin Thomas Noach</td>
+            <td>17</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Kabupaten Maluku Tengah</td>
+            <td> Masohi</td>
+            <td> Abua Tuasikal</td>
+            <td>18</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td> Kabupaten Maluku Tenggara</td>
+            <td> Langgur</td>
+            <td> Muh. Thaher Hanubun</td>
+            <td>11</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td> Kabupaten Seram Bagian Barat</td>
+            <td> Piru</td>
+            <td>Moh. Yasin Payapo</td>
+            <td>11</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Kabupaten Seram Bagian Timur</td>
+            <td>Bula</td>
+            <td> Abdul Mukti Keliobas</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td> Kota Ambon</td>
+            <td>-</td>
+            <td>Richard Louhenapessy</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Kota Tual</td>
+            <td>-</td>
+            <td> Adam Rahayaan</td>
+            <td>5</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -263,9 +178,9 @@
     <div class="row justify-content-center">
       <div class="col-md-7 mb-5">
         <div class="card shadow" style="width: auto">
-          <img src="img/bengkulu/rumah_adat.png" class="card-img-top rounded" alt="Gambar Rumah Adat Bengkulu">
+          <img src="img/maluku/rumah_adat.png" class="card-img-top rounded" alt="Gambar Rumah Adat Maluku">
           <div class="card-body">
-            <p class="card-text fs-6" style="text-align: justify;">Rumah Bubungan Lima adalah rumah adat dari provinsi Bengkulu. Rumah ini memiliki model seperti rumah panggung yang ditopang oleh beberapa tiang penopang. Rumah ini bukanlah rumah tinggal seperti pada umumnya. Rumah ini biasanya dipakai untuk acara adat masyarakat Bengkulu. Rumah ini terbagi atas tiga bagian yaitu rumah bagian atas, rumah bagian tengah, dan rumah bagian bawah. Rumah Bubungan Lima memiliki materi dasar yaitu kayu. Kayu yang dipilih pun bukan kayu sembarangan melainkan kayu yang kuat dan tahan lama. Kayu yang biasanya digunakan untuk membangun Rumah Bubungan Lima adalah Kayu Medang Kemuning. Rumah Bubungan Lima dibangun tinggi agar menghindari pemilik rumah beserta keluarga dari serangan binatang liar dan juga dari bencana alam seperti banjir. Karena tinggi Rumah Bubungan Lima ini, maka orang-orang yang hendak masuk ke dalam rumah pun harus menggunakan tangga. Tangga yang digunakan untuk masuk ke dalam rumah umumnya mempunyai jumlah anak tangga yang ganjil sesuai dengan kepercayaan masyarakat Bengkulu. Rumah Bubungan Lima ini merupakan salah satu Budaya Indonesia yang menjadi objek wisata.</p>
+            <p class="card-text fs-6" style="text-align: justify;">Baileo adalah rumah adat Maluku dan Maluku Utara, Indonesia. Baileo merupakan representasi kebudayaan Maluku dan memiliki fungsi yang sangat penting bagi kehidupan masyarakat. Baileo adalah identitas setiap negeri di Maluku selain Masjid atau Gereja. Baileo berfungsi sebagai tempat penyimpanan benda-benda suci, tempat upacara adat, sekaligus sebagai balai warga. Ciri utama baileo adalah ukurannya besar, dan memiliki bentuk yang berbeda jika dibandingkan dengan rumah-rumah lain di sekitarnya.</p>
           </div>
         </div>
       </div>
@@ -288,37 +203,28 @@
     <div class="row justify-content-evenly">
       <div class="col-md-6 mb-3">
         <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_bidadariteminanganak.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Bidadari Teminang Anak" />
+          <img src="img/maluku/tari_katreji.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Katreji" />
           <div class="card-body">
-            <h4 class="card-title">Tari Bidadari Teminang Anak</h4>
-            <p class="card-text" style="text-align: justify;">Tari Bidadari Teminang Anak afalah salah satu tari tradisional Indonesia yang berasal dari wilayah Rejang Lebong, Provinsi Bengkulu. Dilansir dari Pemerintah Kabupaten Rejang Lebong, Rejang Lebong berada di atas pegunungan bukit barisan Provinsi Bengkulu yang merupakan produsen utara kopi dan sayuran.</p>
+            <h4 class="card-title">Tari Katreji</h4>
+            <p class="card-text" style="text-align: justify;">Tari Katreji adalah salah satu tarian tradisional asal Provinsi Maluku. Tarian yang dilakukan berpasangan antara wanita dan pria ini sangat terkenal dan sering ditampilkan pada acara-acara perayaan hari besar, penyambutan tamu maupun pernikahan adat dan pentas seni di sekolah-sekolah. Makna dari tarian ini sendiri adalah sebagai tarian pergaulan masyarakat terutama para muda-mudi. Tarian ini ditampilkan dengan eksepresi dan nuansa yang ceria serta bersemangat.</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_pukek.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Pukek" />
+          <img src="img/maluku/tari_lenso.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Lenso" />
           <div class="card-body">
-            <h4 class="card-title">Tari Pukek</h4>
-            <p class="card-text" style="text-align: justify;">Tari Pukek adalah salah satu aset budaya yang masih dilestarikan. Indonesia terkenal dengan Negara berjuta kebudayaan, dimana kebudayaan tersebut tersebar di seluruh daerah. Selain lagu daerah, tarian juga mencerminkan identitas bangsa. Agar budaya tidak hilang atau mati, masyarakat wajib melestarikan warisan tersebut.</p>
+            <h4 class="card-title">Tari Lenso</h4>
+            <p class="card-text" style="text-align: justify;">Tari Lenso adalah tarian muda-mudi dari daerah Maluku dan Minahasa ,Sulawesi Utara. Tarian ini biasanya di bawakan secara ramai-ramai bila ada Pesta. Baik Pesta Pernikahan, Panen Cengkih, Tahun Baru dan kegiatan lainnya. Beberapa sumber menyebutkan, tari lenso berasal dari tanah Maluku. Sedangkan sumber lain menyebut tari ini berasal dari Minahasa.</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_putrigadingcempaka.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Putri Gading Cempaka" />
+          <img src="img/maluku/tari_saurekareka.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Saureka Reka" />
           <div class="card-body">
-            <h4 class="card-title">Tari Putri Gading Cempaka</h4>
-            <p class="card-text" style="text-align: justify;">arian ini merupakan tarian adat Bengkulu yang terinspirasi dari cerita rakyat yaitu Sendratari Putri Gading Cempaka yang mengisahkan putri tercantik yang berasal dari Bengkulu Utara</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/bengkulu/tari_tombakkerbau.png" class="card-img-top img-fluid rounded" alt="Gambar Logo Tari Tombak Kerbau" />
-          <div class="card-body">
-            <h4 class="card-title">Tari Tombak Kerbau</h4>
-            <p class="card-text" style="text-align: justify;">Tari Tombak Kerbau adalah salah satu aset budaya yang masih dilestarikan. Indonesia terkenal dengan Negara berjuta kebudayaan, dimana kebudayaan tersebut tersebar di seluruh daerah. Selain lagu daerah, tarian juga mencerminkan identitas bangsa. Agar budaya tidak hilang atau mati, masyarakat wajib melestarikan warisan tersebut.</p>
+            <h4 class="card-title">Tari Saureka Reka</h4>
+            <p class="card-text" style="text-align: justify;">Tarian Saureka Reka merupakan sebuah tarian yang berasal dari daerah Maluku. Tarian ini dimainkan oleh muda mudi yang terdiri dari 4 laki-laki dan 4 perempuan. Pada mulanya tarian ini dimainkan hanya pada saat musin panen sagu yang merupakan ungkapan rasa syukur rakyat namun pada saat ini tarian Saureka Reka sudah banyak dimainkan pada pertunjukkan-pertunjukkan. Dalam melakukan tarian ini, ketepatan dan kelincahan merupakan poin penting. Para perempuan menari menghindari gaba-gaba yang terbuat dari bilah pohon sagu maka para perempuan harus memiliki stamina dalam menari. Jika tidak maka kaki akan terjepit atau terjatuh.</p>
           </div>
         </div>
       </div>
@@ -340,16 +246,16 @@
     </div>
     <div class="row justify-content-evenly">
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_bentengmarlborough.png" alt="Gambar Benteng Marlborough" class="img-fluid shadow-lg rounded">
-        <h6>Benteng Marlborough</h6>
+        <img src="img/maluku/wst_airterjunhoko.png" alt="Gambar Air Terjun Hoko" class="img-fluid shadow-lg rounded">
+        <h6>Air Terjun Hoko</h6>
       </div>
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_panjangbeach.png" alt="Gambar Panjang Beach" class="img-fluid shadow-lg rounded">
-        <h6>Panjang Beach</h6>
+        <img src="img/maluku/wst_pulaukasa.png" alt="Gambar Pulau Kasa" class="img-fluid shadow-lg rounded">
+        <h6>Pulau Kasa</h6>
       </div>
       <div class="wisgam col-md-2">
-        <img src="img/bengkulu/wst_rumahpengasinganbungkarno.png" alt="Gambar Rumah Pengasingan Bung Karno" class="img-fluid shadow-lg rounded">
-        <h6>Rumah Pengasingan Bung Karno</h6>
+        <img src="img/maluku/wst_telukambon.png" alt="Gambar Teluk Ambon" class="img-fluid shadow-lg rounded">
+        <h6>Teluk Ambon</h6>
       </div>
     </div>
   </div>
@@ -372,12 +278,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_lembak.png" class="img-fluid rounded-end" alt="Gambar Suku Lembak">
+              <img src="img/maluku/suku_ambon.png" class="img-fluid rounded-end" alt="Gambar Suku Ambon">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Lembak</h5>
-                <p class="card-text" style="text-align: justify;">Suku Lembak adalah suku bangsa atau kelompok etnik yang mendiami daerah-daerah di Provinsi Bengkulu dan sebagian Provinsi Sumatra Selatan yang tersebar di kota Bengkulu, Bengkulu Utara, kabupaten Bengkulu Tengah, kabupaten Rejang Lebong, dan kabupaten Kepahiang. Suku Lembak di kabupaten Rejang Lebong bermukim di kecamatan Padang Ulak Tanding, Sindang Kelingi, dan Kota Padang. Di Kabupaten Kepahiang, suku Lembak mendiami desa Suro Lembak. Suku lembak juga mendiami wilayah daerah Kota Lubuklinggau dan kabupaten Musi Rawas yang berada di wilayah provinsi Sumatra Selatan. Dari beberapa literatur, Suku Lembak berdasarkan jenisnya adalah bagian dari Suku Melayu. Bahasa, adat-istiadat, dan budaya Suku Lembak tidak jauh berbeda dengan masyarakat Melayu pada umumnya.
+                <h5 class="card-title">Suku Ambon</h5>
+                <p class="card-text" style="text-align: justify;">Suku Ambon (Ambon: orang Ambong) adalah sebuah suku campuran Austronesia-Papua yang berasal dari Kepulauan Ambon-Lease dan sisi barat Pulau Seram. Suku Ambon merupakan suku terbesar di antara orang-orang Maluku lainnya, meski banyak darinya yang tersebar sebagai akibat dari perpindahan keluar dari daerah aslinya. Suku Ambon berbahasa Ambon, bahasa rumpun Austronesia yang juga menjadi bahasa pengantar di Maluku di samping bahasa Indonesia.
                 </p>
               </div>
             </div>
@@ -388,12 +294,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_mukomuko.png" class="img-fluid rounded-end" alt="Gambar Suku Mukomuko">
+              <img src="img/malukut/suku_kei.png" class="img-fluid rounded-end" alt="Gambar Suku Kei">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Mukomuko</h5>
-                <p class="card-text" style="text-align: justify;">Suku Mukomuko atau disebut Muke-Muke mendiami wilayah yang sekarang masuk Kabupaten Mukomuko, Bengkulu yang mendekati perbatasan wilayah Sumatra Barat di utara. Orang Minang Mukomuko mempunyai bahasa sendiri yaitu bahasa Mukomuko, yang memiliki persamaan dengan bahasa Minangkabau. Selain bahasa, unsur-unsur kebudayaan Mukomuko banyak memiliki persamaan dengan kebudayaan Minangkabau. Dalam sistem kekerabatan, mereka mengamalkan prinsip penarikan garis keturunan matrilineal, sebagaimana yang berlaku di daerah Minangkabau.
+                <h5 class="card-title">Suku Kei</h5>
+                <p class="card-text" style="text-align: justify;">Suku Kei merupakan salah satu suku bangsa di Indonesia yang mendiami Kepulauan Kei di Laut Arafuru, yang terdiri atas Pulau Nuhucut, Nuhurowa, Kaidullah, Toyandu, Walir dan sejumlah pulau lebih kecil di sekitarnya. Kepulauan ini terbagi menjadi dua kecamatan, yaitu Kecamatan Kei Besar dan Kecamatan Kei Kecil, Kabupaten Maluku Tenggara, Provinsi Maluku.
                 </p>
               </div>
             </div>
@@ -404,13 +310,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_pekal.png" class="img-fluid rounded-end" alt="Gambar Suku Pekal">
+              <img src="img/maluku/suku_alifuru.png" class="img-fluid rounded-end" alt="Gambar Suku Alifuru">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Pekal</h5>
-                <p class="card-text" style="text-align: justify;">Suku Pekal[1] atau Pikal adalah suku bangsa atau kelompok etnik yang mendiami daerah Kabupaten Bengkulu Utara di Provinsi Bengkulu, dan juga wilayah sekitar Kabupaten Mukomuko yang berada dekat perbatasan Jambi dan Sumatra Barat. Populasi suku Pekal pada sensus tahun 2000 yakni sebesar 30.000 orang.
-                </p>
+                <h5 class="card-title">Suku Alifuru</h5>
+                <p class="card-text" style="text-align: justify;">Suku Alfur, Alfuros, Alfures, Alifuru atau Horaforas (Belanda: Alfuren) adalah istilah luas yang digunakan oleh orang Melayu untuk semua orang non-Muslim yang tinggal di wilayah tak terakses di bagian timur Kepulauan Nusantara. Saat ini istilah ini tak terbatas untuk suku aborigin lokal yang berciri Austronesia, Negrito atau Papua, tetapi juga dapat digunakan untuk suku berdarah Melayu pula yang berdomisili di Kepulauan Maluku Selatan. Saat ini suku alifuru yang masih bertahan di pulau Seram adalah Huaulu di Seram Utara dan suku Nuaulu di Seram Selatan
               </div>
             </div>
           </div>
@@ -420,12 +325,12 @@
         <div class="card mb-3 mt-3 shadow h-100">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="img/bengkulu/suku_rejang.png" class="img-fluid rounded-end" alt="Gambar Suku Rejang">
+              <img src="img/maluku/suku_buru.png" class="img-fluid rounded-end" alt="Gambar Suku Buru">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Suku Rejang</h5>
-                <p class="card-text" style="text-align: justify;">Suku Rejang adalah salah satu suku bangsa yang mendiami Provinsi Bengkulu dan Provinsi Sumatra Selatan.[1] Masyarakat Rejang di Bengkulu mendiami bekas wilayah Onderafdeeling Lais (Rejang Pesisir) serta Lebong, dan Redjang (Rejang Pegunungan). Sementara itu, di Sumatra Selatan masyarakatnya yang masih beridentitas Rejang bermukim di sebagian kecil dari bekas wilayah Onderafdeeling Rawas. Ada pun yang sudah melebur dengan masyarakat Melayik (Lintang dan Lembak) serta tidak lagi berbahasa Rejang mendiami bekas wilayah Onderafdeeling Musi Ulu, Empat Lawang, dan Rawas
+                <h5 class="card-title">Suku Buru</h5>
+                <p class="card-text" style="text-align: justify;">SSuku Buru adalah sebuah kelompok etnis yang kebanyakan tinggal di pulau Buru, Indonesia, serta pada beberapa Kepulauan Maluku lainnya. Mereka juga menyebut diri gebfuka atau gebemliar yang secara harfiah berarti "orang dunia" atau "orang tanah". Orang Buru terkait dengan kelompok antropologi Indonesia Timur dan dari titik etnografis pandang yang sama dengan masyarakat adat lain dari pulau Buru. Mereka berbicara dalam bahasa Buru.
                 </p>
               </div>
             </div>
@@ -451,25 +356,25 @@
     <div class="row justify-content-evenly">
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_bagarhiu.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Bagar Hiu" />
+          <img src="img/maluku/mkn_ikankomuasar.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Ikan Komuasar" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Bagar Hiu</h5>
+            <h5 class="card-text text-center pt-3">Ikan Komuasar</h5>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_lemangtapai.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Lemang Tapai" />
+          <img src="img/maluku/mkn_ikankuahpalabanda.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Ikan Kuah Pala Banda" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Lemang Tapai</h5>
+            <h5 class="card-text text-center pt-3">Ikan Kuah Pala Banda</h5>
           </div>
         </div>
       </div>
       <div class="col-md-4 mb-3">
         <div class="card border-light shadow p-4 h-100">
-          <img src="img/bengkulu/mkn_lontongtunjang.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Lontong Tunjang" />
+          <img src="img/maluku/mkn_nasilalopa.png" class="card-img-top img-fluid rounded shadow-sm" alt="Gambar Nasi Lalopa" />
           <div class="card-body">
-            <h5 class="card-text text-center pt-3">Lontong Tunjang</h5>
+            <h5 class="card-text text-center pt-3">Nasi Lalopa</h5>
           </div>
         </div>
       </div>

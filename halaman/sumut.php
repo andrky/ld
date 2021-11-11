@@ -59,191 +59,260 @@
         <h2>Kota dan Kabupaten</h2>
       </div>
     </div>
-    <div class="row justify-content-evenly">
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_barat_daya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Barat Daya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Barat Daya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_besar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kabupaten Aceh Besar" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Besar</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_selatan.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Selatan" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Selatan</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_singkil.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Singkil" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Singkil</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tamiang.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tamiang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tamiang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tengah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tengah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tengah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_tenggara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Tenggara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Tenggara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_timur.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Timur" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Timur</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_aceh_utara.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Aceh Utara" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Aceh Utara</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_bener_meriah.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bener Meriah" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bener Meriah</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/bireuen.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Bireueun" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Bireueun</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/gayo_lues.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Gayo Lues" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Gayo Lues</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_nagan_raya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Nagan Rayaa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Nagan Raya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_pidie_jaya.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Pidie Jaya" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Pidie Jaya</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kab_simeuleu.png" class="card-img-top img-fluid" alt="Gambar Logo Kabupaten Simeulue" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kabupaten Simeulue</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_banda_aceh.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Banda Aceh" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Banda Aceh</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/langsa.png" class="card-img-top img-fluid" alt="Gambar Logo Langsa" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Langsa</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_lhok.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Lhokseumawe" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Lhokseumawe</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kota_sabang.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Sabang" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Sabang</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2 mb-3">
-        <div class="card border-light shadow p-3 h-100">
-          <img src="img/aceh/kot_subulussalam.png" class="card-img-top img-fluid" alt="Gambar Logo Kota Subulussalam" />
-          <div class="card-body">
-            <h6 class="card-text text-center pt-3">Kota Subulussalam</h6>
-          </div>
-        </div>
-      </div>
+    <div class="table-responsive">
+      <table id="tabel-data" class="table table-striped table-bordered" cellspacing="0">
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>No</th>
+            <th>Kabupaten/Kota</th>
+            <th>Pusat Pemerintahan</th>
+            <th>Bupati/Wali Kota</th>
+            <th>Kecamatan</th>
+          </tr>
+        </tfoot>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Kabupaten Asahan</td>
+            <td>Kisaran</td>
+            <td>Surya</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Kabupaten Batu Bara</td>
+            <td>Limapuluh</td>
+            <td>Zahir</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Kabupaten Dairi</td>
+            <td>Sidikalang</td>
+            <td>Eddy Keleng Ate Berutu</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Kabupaten Deli Serdang</td>
+            <td>Lubuk Pakam</td>
+            <td>Ashari Tambunan</td>
+            <td>22</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Kabupaten Humbang Hasundutan</td>
+            <td>Dolok Sanggul</td>
+            <td>Dosmar Banjarnahor</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Kabupaten Karo</td>
+            <td>Kabanjahe</td>
+            <td>Cory Sriwaty Sebayang</td>
+            <td>17</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Kabupaten Labuhanbatu</td>
+            <td>Rantau Prapat</td>
+            <td>Mulyadi Simatupang (Pj.)</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Kabupaten Labuhanbatu Selatan</td>
+            <td>Kota Pinang</td>
+            <td>Edimin</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Kabupaten Labuhanbatu Utara</td>
+            <td>Aek Kanopan</td>
+            <td>Hendri Yanto Sitorus</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td>Kabupaten Langkat</td>
+            <td>Stabat</td>
+            <td>Terbit Rencana Perangin Angin</td>
+            <td>23</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Kabupaten Mandailing Natal</td>
+            <td>Panyabungan</td>
+            <td>Jafar Sukhairi Nasution</td>
+            <td>23</td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>Kabupaten Nias</td>
+            <td>Gido</td>
+            <td>Ya'atulo Gulö</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>Kabupaten Nias Barat</td>
+            <td>Lahomi</td>
+            <td>Khenoki Waruwu</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>Kabupaten Nias Selatan</td>
+            <td>Teluk Dalam</td>
+            <td>Hilarius Duha</td>
+            <td>35</td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>Kabupaten Nias Utara</td>
+            <td>Lotu</td>
+            <td>Amizaro Waruwu</td>
+            <td>11</td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>Kabupaten Padang Lawas</td>
+            <td>Sibuhuan</td>
+            <td>Ali Sutan Harahap</td>
+            <td>12</td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>Kabupaten Padang Lawas Utara</td>
+            <td>Gunung Tua</td>
+            <td>Andar Amin Harahap</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>Kabupaten Pakpak Bharat</td>
+            <td>Salak</td>
+            <td>Franc Bernhard Tumanggor</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td>Kabupaten Samosir</td>
+            <td>Pangururan</td>
+            <td>Vandiko Gultom</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td>Kabupaten Serdang Bedagai</td>
+            <td>Seri Rampah</td>
+            <td>Darma Wijaya</td>
+            <td>17</td>
+          </tr>
+          <tr>
+            <td>21</td>
+            <td>Kabupaten Simalungun</td>
+            <td>Raya</td>
+            <td>Radiapoh Hasiholan Sinaga</td>
+            <td>31</td>
+          </tr>
+          <tr>
+            <td>22</td>
+            <td>Kabupaten Tapanuli Selatan</td>
+            <td>Sipirok</td>
+            <td>Dolly Putra Parlindungan Pasaribu</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <td>23</td>
+            <td>Kabupaten Tapanuli Tengah</td>
+            <td>Pandan</td>
+            <td>Bakhtiar Ahmad Sibarani</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>24</td>
+            <td>Kabupaten Tapanuli Utara</td>
+            <td>Tarutung</td>
+            <td>Nikson Nababan</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>25</td>
+            <td>Kabupaten Toba</td>
+            <td>Balige</td>
+            <td>Poltak Sitorus</td>
+            <td>16</td>
+          </tr>
+          <tr>
+            <td>26</td>
+            <td>Kota Binjai</td>
+            <td>-</td>
+            <td>Amir Hamzah</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>27</td>
+            <td>Kota Gunungsitoli</td>
+            <td>-</td>
+            <td>Lakhomizaro Zebua</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>28</td>
+            <td>Kota Medan</td>
+            <td>-</td>
+            <td>Bobby Nasution</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>29</td>
+            <td>Kota Padang Sidempuan</td>
+            <td>-</td>
+            <td>Irsan Efendi Nasution</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>30</td>
+            <td>Kota Sibolga</td>
+            <td>-</td>
+            <td>Jamaluddin Pohan</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>31</td>
+            <td>Kota Subulussalam</td>
+            <td>-</td>
+            <td>Affan Alfian Bintang</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>32</td>
+            <td>Kota Tanjungbalai</td>
+            <td>-</td>
+            <td>Waris Thalib (Plt.)</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>33</td>
+            <td>Kota Tebing Tinggi</td>
+            <td>-</td>
+            <td>Umar Zunaidi Hasibuan</td>
+            <td>5</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">

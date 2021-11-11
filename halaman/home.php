@@ -3,13 +3,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<img src="https://awsimages.detik.net.id/community/media/visual/2019/11/22/b9c29bcd-9d9b-4c1f-a19a-e59b6c93b87e.png?a=1" alt="Gambar Peta Indonesia" class="img-fluid" />
-			</div>
+				<h2 class="text-center mb-5">Peta Negara Kesatuan Republik Indonesia</h2>
+		</div>
 		</div>
 	</div>
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-		<path fill="#ffffff" fill-opacity="1" d="M0,96L48,85.3C96,75,192,53,288,74.7C384,96,480,160,576,192C672,224,768,224,864,197.3C960,171,1056,117,1152,117.3C1248,117,1344,171,1392,197.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-	</svg>
 </section>
 <!-- End Jumbotron -->
 
@@ -388,7 +385,7 @@
 		</div>
 		<div class="row justify-content-center" style="text-align: justify">
 			<div class="col-md-5 mb-3 fs-5">
-				<h3 class="text-center mb-3">Literature Digital</h3>
+				<h3 class="text-center mb-3">Virtual Jelajah Indonesia</h3>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, et beatae qui nesciunt iure cumque sunt quaerat laboriosam accusantium quis, aut esse eius sit quisquam tempore modi perspiciatis eum commodi?
 			</div>
 			<div class="col-md-5 mb-3 fs-5">
