@@ -386,7 +386,7 @@
 		<div class="row justify-content-center" style="text-align: justify">
 			<div class="col-md-5 mb-3 fs-5">
 				<h3 class="text-center mb-3">Virtual Jelajah Indonesia</h3>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, et beatae qui nesciunt iure cumque sunt quaerat laboriosam accusantium quis, aut esse eius sit quisquam tempore modi perspiciatis eum commodi?
+				Virtual Jelajah Indonesia (VJI) merupakan sebuah literature digital yang bertujuan untuk mengenalkan budaya Indonesia.
 			</div>
 			<div class="col-md-5 mb-3 fs-5">
 				<div class="row">
