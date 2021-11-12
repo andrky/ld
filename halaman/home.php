@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		<div class="row justify-content-evenly">
-			<div class="col-md-2 mb-3">
+			<div class="col mb-3">
 				<a href="index.php?page=aceh" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/aceh/aceh.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Aceh" />
@@ -36,7 +36,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sumut" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sumut/sumut.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sumatera Utara" />
@@ -46,7 +46,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sumbar" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sumbar/sumbar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sumatera Barat" />
@@ -56,7 +56,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=riau" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/riau/riau.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Riau" />
@@ -66,7 +66,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kepri" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kepri/kepri.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kepulauan Riau" />
@@ -76,7 +76,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jambi" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jambi/jambi.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Jambi" />
@@ -86,7 +86,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=bengkulu" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/bengkulu/bengkulu.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Bengkulu" />
@@ -96,7 +96,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sumsel" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sumsel/sumsel.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sumatera Selatan" />
@@ -106,7 +106,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kbb" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kbb/kbb.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kepulauan Bangka Belitung" />
@@ -116,7 +116,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=lampung" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/lampung/lampung.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Lampung" />
@@ -126,7 +126,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jakarta" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jakarta/jakarta.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Jakarta" />
@@ -136,7 +136,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=banten" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/banten/banten.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Banten" />
@@ -146,7 +146,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jabar" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jabar/jabar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Jawa Barat" />
@@ -157,7 +157,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jateng" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jateng/jateng.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Jawa Tengah" />
@@ -167,7 +167,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jogja" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jogja/jogja.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Yogyakarta" />
@@ -177,7 +177,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=jatim" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/jatim/jatim.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Jawa Timur" />
@@ -187,7 +187,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=bali" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/bali/bali.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Bali" />
@@ -197,7 +197,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=ntb" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/ntb/ntb.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Nusa Tenggara Barat" />
@@ -207,7 +207,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=ntt" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/ntt/ntt.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Nusa Tenggara Timur" />
@@ -217,7 +217,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kalbar" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kalbar/kalbar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kalimantan Barat" />
@@ -227,7 +227,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kalteng" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kalteng/kalteng.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kalimantan Tengah" />
@@ -237,7 +237,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kalsel" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kalsel/kalsel.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kalimantan Selatan" />
@@ -247,7 +247,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kaltim" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kaltim/kaltim.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kalimantan Timur" />
@@ -257,7 +257,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=kalut" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/kalut/kalut.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Kalimantan Utara" />
@@ -267,7 +267,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sulut" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sulut/sulut.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sulawesi Utara" />
@@ -277,7 +277,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=gorontalo" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/gorontalo/gorontalo.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Gorontalo" />
@@ -287,7 +287,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sulteng" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sultengah/sulteng.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sulawesi Tengah" />
@@ -297,7 +297,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sulbar" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sulbar/sulbar.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sulawesi Barat" />
@@ -307,7 +307,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sulsel" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sulsel/sulsel.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sulawesi Selatan" />
@@ -317,7 +317,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=sultenggara" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/sultenggara/sultenggara.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Sulawesi Tenggara" />
@@ -327,7 +327,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=malukut" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/malukut/malukut.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Maluku Utara" />
@@ -337,7 +337,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=maluku" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/maluku/maluku.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Maluku" />
@@ -347,7 +347,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=papuabarat" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/papuabarat/pb.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Papua Barat" />
@@ -357,7 +357,7 @@
 					</div>
 				</a>
 			</div>
-			<div class="col-md-2 mb-3">
+			<div class="col col-md-2 mb-3">
 				<a href="index.php?page=papua" class="text-decoration-none">
 					<div class="card border-light shadow p-3 h-100">
 						<img src="img/papua/papua.png" class="card-img-top img-fluid" alt="Gambar Logo Provinsi Papua" />
