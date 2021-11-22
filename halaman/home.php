@@ -9,7 +9,24 @@
 	</div>
 </section>
 <!-- End Jumbotron -->
-
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">Selamat Datang di Virtual Jelajah Indonesia!</h5>
+        <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+      </div>
+      <div class="modal-body">
+	  Virtual Jelajah Indonesia (VJI) merupakan sebuah literature digital yang bertujuan untuk mengenalkan budaya Indonesia.
+      </div>
+      <div class="modal-footer">
+        <!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> -->
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal" value="PLAY" onclick="play()">Lanjutkan</button>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Maps Indonesia -->
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
@@ -460,3 +477,8 @@
 	</svg>
 </section>
 <!-- Akhir Contact -->
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $('#staticBackdrop').modal('show');
+    });
+</script>

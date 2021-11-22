@@ -21,7 +21,7 @@
 
 
 
-  <style #container { height: 500px; min-width: 310px; max-width: 800px; margin: 0 auto; } .loading { margin-top: 10em; text-align: center; color: gray; }></style>
+  <style> #container { height: 500px; min-width: 310px; max-width: 800px; margin: 0 auto; } .loading { margin-top: 10em; text-align: center; color: gray; }></style>
 
   <!-- Font Awesome Icon -->
   <script src="https://kit.fontawesome.com/61496211f5.js" crossorigin="anonymous"></script>
@@ -59,6 +59,7 @@
   </nav>
   <!-- End Navbar -->
   <!-- Start Isi -->
+  
   <div id="isi">
     <?php
     if (isset($_GET['page'])) {
@@ -181,6 +182,8 @@
     ?>
   </div>
   <!-- End Isi -->
+    <audio id="audio" src="tanah_airku.mp3"></audio>
+  
 
   <!-- Footer -->
   <footer class="text-light pb-1 text-center" style="background-color: rgb(255, 0, 0)">
@@ -428,6 +431,18 @@
   $(document).ready(function() {
     $('#tabel-data').DataTable();
   });
+
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+
+      var myModal = document.getElementById('myModal')
+var myInput = document.getElementById('myInput')
+
+myModal.addEventListener('shown.bs.modal', function () {
+  myInput.focus()
+})
 </script>
 
 </html>
