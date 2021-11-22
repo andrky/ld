@@ -405,37 +405,6 @@
 				<h3 class="text-center mb-3">Virtual Jelajah Indonesia</h3>
 				Virtual Jelajah Indonesia (VJI) merupakan sebuah literature digital yang bertujuan untuk mengenalkan budaya Indonesia.
 			</div>
-			<div class="col-md-5 mb-3 fs-5">
-				<div class="row">
-					<div class="col">
-						<h3 class="text-center mb-3">Follow Me</h3>
-					</div>
-				</div>
-				<div class="row justify-content-center">
-					<div class="col-md-4 ms-5">
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-instagram-square fa-lg pe-3"></i></i>Instagram</li></a>
-						</ul>
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-youtube fa-lg pe-2"></i>Youtube</li></a>
-						</ul>
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-facebook fa-lg pe-2"></i> Facebook</li></a>
-						</ul>
-					</div>
-					<div class="col-md-4 ms-5">
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-twitter fa-lg pe-2"></i>Twitter</li></a>
-						</ul>
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-line fa-lg pe-2"></i> Line</li></a>
-						</ul>
-						<ul class="ps-0">
-							<li style="list-style: none"></i><a href="index.php?page=" class="text-decoration-none" style="color: black"><i class="fab fa-tiktok fa-lg pe-2"></i> Tiktok</li></a>
-						</ul>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">

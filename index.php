@@ -32,7 +32,7 @@
   <!-- Start Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top" style="background-color: rgb(255, 0, 0)">
     <div class="container-fluid">
-      <a class="navbar-brand ms-5 me-5" href="index.php?page=home">Virtual Jelajah Indonesia</a>
+      <a class="navbar-brand ms-5 me-5" href="index.php?page=home" style="font-size: 17px;">Virtual Jelajah Indonesia</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
